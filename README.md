@@ -26,20 +26,20 @@ Prepare and produce releases of software components <br/>
 Support continuous improvement, investigating alternatives and technologies, and presenting for architectural review.
 <br/>
 
-Detailed Breakdown of Java Developer Job Description Duties <br/>
-Program Architecture 
+##Detailed Breakdown of Java Developer Job Description Duties <br/>
+#Program Architecture 
 A key function that Java Developers provide during project development
 <br/>
-Requirement Gathering
+#Requirement Gathering
 The first step to working on a project is to gather requirements from all involved, prioritize important tasks, determine the scope of work on the whole and course of action. 
 <br/>
-Development 
+#Development 
 In this phase, the Java developer writes the program code, tests it, and makes changes if needed 
 <br/>
-Testing 
+#Testing 
 This duty involves testing and debugging each feature after it is completed.
 <br/>
-Deployment
+#Deployment
 In this phase, fully functional code is transferred to a live environment
 <br/>
 Other java developer responsibilities include Software maintenance and optimization, project management, leading and liaising, and vendor management. 
@@ -51,36 +51,55 @@ A well-rounded Java Developer has proficiency in Java full stack developer skill
 
 Some of the Java Developer key skills include:
 
-Proficiency in Java, with a good understanding of its ecosystems
-Sound knowledge of Object-Oriented Programming (OOP) Patterns and Concepts
-Familiarity with different design and architectural patterns
-Skill for writing reusable Java libraries 
-Knowhow of Java concurrency patterns
-Basic Understanding of the concepts of MVC (Model-View-Controller) Pattern, JDBC (Java Database Connectivity), and RESTful web services
-Experience in working with popular web application frameworks like Play and Spark
-Relevant Knowledge of Java GUI frameworks like Swing, SWT, AWT according to project requirements
-Ability to write clean, readable Java code
-Basic knowhow of class loading mechanism in Java
-Experience in handling external and embedded databases
-Understanding basic design principles behind a scalable application
-Skilled at creating database schemas that characterize and support business processes
-Basic knowledge of JVM (Java Virtual Machine), its drawbacks, weaknesses, and workarounds
-Implementing automated testing platforms and unit tests 
-In-depth knowledge of code versioning tools, for instance, Git
-Understanding of building tools like Ant, Maven, Gradle, etc
-Expertise in continuous integration
+Proficiency in Java, with a good understanding of its ecosystems<br/>
+Sound knowledge of Object-Oriented Programming (OOP) Patterns and Concepts<br/>
+Familiarity with different design and architectural patterns<br/>
+Skill for writing reusable Java libraries <br/>
+Knowhow of Java concurrency patterns<br/>
+Basic Understanding of the concepts of MVC (Model-View-Controller) Pattern, JDBC (Java Database Connectivity), and RESTful web services<br/>
+Experience in working with popular web application frameworks like Play and Spark<br/>
+Relevant Knowledge of Java GUI frameworks like Swing, SWT, AWT according to project requirements<br/>
+Ability to write clean, readable Java code<br/>
+Basic knowhow of class loading mechanism in Java<br/>
+Experience in handling external and embedded databases<br/>
+Understanding basic design principles behind a scalable application<br/>
+Skilled at creating database schemas that characterize and support business processes<br/>
+Basic knowledge of JVM (Java Virtual Machine), its drawbacks, weaknesses, and workarounds<br/>
+Implementing automated testing platforms and unit tests <br/>
+In-depth knowledge of code versioning tools, for instance, Git<br/>
+Understanding of building tools like Ant, Maven, Gradle, etc<br/>
+Expertise in continuous integration<br/>
 Other required skills of java developer include the basic knowledge of:
 
-JavaServer pages (JSP) and servlets
-Web frameworks like Struts and Spring
-Service-oriented architecture 
-Web Technologies like HTML, JavaScript, CSS, JQuery
-Markup Languages such as XML, JSON
-Abstract classes and interfaces
-Constructors, lists, maps, sets
-File IO and serialization
-Exceptions
-Generics
-Java Keywords like static, volatile, synchronized, transient, etc
-Multithreading and Synchronization
+JavaServer pages (JSP) and servlets<br/>
+Web frameworks like Struts and Spring<br/>
+Service-oriented architecture <br/>
+Web Technologies like HTML, JavaScript, CSS, JQuery<br/>
+Markup Languages such as XML, JSON<br/>
+Abstract classes and interfaces<br/>
+Constructors, lists, maps, sets<br/>
+File IO and serialization<br/>
+Exceptions<br/>
+Generics<br/>
+Java Keywords like static, volatile, synchronized, transient, etc<br/>
+Multithreading and Synchronization<br/>
+
+Common Challenges in Object-Oriented Design (OOD)<br/>
+Designing for potential future needs that may never arise, which adds needless complexity.<br/>
+Impact: Leads to code that is harder to understand, maintain, and extend.<br/>
+Mitigation: Focus on current requirements and implement extensibility only when there’s a clear need.<br/>
+Not foreseeing future demands and modifications, which leads to an inflexible system.<br/>
+Impact: Makes the system difficult to extend or modify.<br/>
+Mitigation: Apply principles like SOLID and design patterns that facilitate flexibility and scalability.<br/>
+Ensuring that encapsulation does not excessively degrade performance.<br/>
+Impact: Encapsulation can lead to additional layers of abstraction that may impact performance.<br/>
+Mitigation: Use encapsulation judiciously and optimize critical performance paths as needed.<br/>
+Determining the right level of abstraction to balance simplicity and functionality.<br/>
+Impact: Too much abstraction can obscure functionality; too little can lead to code duplication.<br/>
+Mitigation: Aim for clear and concise abstractions that accurately represent the problem domain.<br/>
+Common Anti-Patterns in Object-Oriented Design (OOD)<br/>
+God Object/Anti-Pattern: A single class takes on too many responsibilities, violating the Single Responsibility Principle.<br/>
+Spaghetti Code: Code with a complex and tangled control structure, making it difficult to follow and maintain.<br/>
+Lava Flow: Dead code, outdated design elements, and obsolete components that remain in the codebase.<br/>
+Object Orgy:Excessive sharing of data and methods between classes, leading to tight coupling and lack of encapsulation.<br/>
 
