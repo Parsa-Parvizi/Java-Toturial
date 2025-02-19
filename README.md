@@ -79,7 +79,8 @@ Implementing automated testing platforms and unit tests <br/>
 In-depth knowledge of code versioning tools, for instance, Git<br/>
 Understanding of building tools like Ant, Maven, Gradle, etc<br/>
 Expertise in continuous integration<br/>
-Other required skills of java developer include the basic knowledge of:
+
+# Other required skills of java developer include the basic knowledge of:
 
 JavaServer pages (JSP) and servlets<br/>
 Web frameworks like Struts and Spring<br/>
@@ -94,7 +95,7 @@ Generics<br/>
 Java Keywords like static, volatile, synchronized, transient, etc<br/>
 Multithreading and Synchronization<br/>
 
-Common Challenges in Object-Oriented Design (OOD)<br/>
+## Common Challenges in Object-Oriented Design (OOD)<br/>
 Designing for potential future needs that may never arise, which adds needless complexity.<br/>
 Impact: Leads to code that is harder to understand, maintain, and extend.<br/>
 Mitigation: Focus on current requirements and implement extensibility only when there’s a clear need.<br/>
