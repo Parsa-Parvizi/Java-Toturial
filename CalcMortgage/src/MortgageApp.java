@@ -48,15 +48,23 @@ public class MortgageApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Get loan details from user
-        System.out.print("Enter loan amount: ");
-        double principal = scanner.nextDouble();
+        // Default values
+        double defaultPrincipal = 100000;
+        double defaultAnnualInterestRate = 5.0;
+        int defaultYears = 30;
 
-        System.out.print("Enter annual interest rate: ");
-        double annualInterestRate = scanner.nextDouble();
+        // Get loan details from user (or use default values)
+        System.out.print("Enter loan amount (default: " + defaultPrincipal + "): ");
+        String principalInput = scanner.nextLine();
+        double principal = principalInput.isEmpty() ? defaultPrincipal : Double.parseDouble(principalInput);
 
-        System.out.print("Enter loan term (years): ");
-        int years = scanner.nextInt();
+        System.out.print("Enter annual interest rate (default: " + defaultAnnualInterestRate + "): ");
+        String interestInput = scanner.nextLine();
+        double annualInterestRate = interestInput.isEmpty() ? defaultAnnualInterestRate : Double.parseDouble(interestInput);
+
+        System.out.print("Enter loan term in years (default: " + defaultYears + "): ");
+        String yearsInput = scanner.nextLine();
+        int years = yearsInput.isEmpty() ? defaultYears : Integer.parseInt(yearsInput);
 
         // Create MortgageCalculator instance and calculate payment
         MortgageCalculator calculator = new MortgageCalculator(principal, annualInterestRate, years);
