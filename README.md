@@ -12,7 +12,7 @@ The content is organized into four main sections:
 I hope this repository will be useful for anyone transitioning to Java from other programming languages, and will serve as a helpful resource for learning and applying Java in these key areas.
 
 
-## Youtube Soucres:
+## Youtube Sources:
 https://www.youtube.com/playlist?list=PLTEzTFAAzxQ4M8vt1I9OUxPtB9mgK_Spz
 
 ## Book Sources:
