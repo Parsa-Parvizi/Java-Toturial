@@ -10,3 +10,12 @@ The content is organized into four main sections:
 **Architecture** - Understanding Java's role in building robust and scalable architectures.<br>
 **Security** - Focusing on secure coding practices, encryption, and other security considerations within Java applications.<br>
 I hope this repository will be useful for anyone transitioning to Java from other programming languages, and will serve as a helpful resource for learning and applying Java in these key areas.
+
+
+## Youtube Soucres:
+https://www.youtube.com/playlist?list=PLTEzTFAAzxQ4M8vt1I9OUxPtB9mgK_Spz
+
+## Book Sources:
+Vaskaran Sarcar - Java Design Patterns A Hands-On Experience with Real-World Examples (2022, Apress)<br>
+Olaf Musch - Design Patterns with Java An Introduction (2023, Springer Vieweg)<br>
+Miroslav Wengner - Practical Design Patterns for Java Developers_ Hone your software design skills by implementing popular design patterns in Java (2023, Packt Publishing)<br>
