@@ -16,10 +16,10 @@ I hope this repository will be useful for anyone transitioning to Java from othe
 https://www.youtube.com/playlist?list=PLTEzTFAAzxQ4M8vt1I9OUxPtB9mgK_Spz
 
 ## Book Sources:
-Vaskaran Sarcar - Java Design Patterns A Hands-On Experience with Real-World Examples (2022, Apress) <br>
-Olaf Musch - Design Patterns with Java An Introduction (2023, Springer Vieweg) <br>
-Miroslav Wengner - Practical Design Patterns for Java Developers_ Hone your software design skills by implementing popular design patterns in Java (2023, Packt Publishing) <br>
-Mohammed Moreb - Design and Implementation of Software Engineering for Modern Web Applications (2024, IGI Global) <br>
-Dayang Norhayati A. Jawawi, Imran Sarwar Bajwa, Rafaqut Kazmi - Engineering Software for Modern Challenges First International Conference <br>
-Martin P. Robillard - Introduction to Software Design with Java (2022, Springer) <br>
-
+1. Vaskaran Sarcar - Java Design Patterns A Hands-On Experience with Real-World Examples (2022, Apress) <br>
+2. Olaf Musch - Design Patterns with Java An Introduction (2023, Springer Vieweg) <br>
+3. Miroslav Wengner - Practical Design Patterns for Java Developers_ Hone your software design skills by implementing popular design patterns in Java (2023, Packt Publishing) <br>
+4. Mohammed Moreb - Design and Implementation of Software Engineering for Modern Web Applications (2024, IGI Global) <br>
+5. Dayang Norhayati A. Jawawi, Imran Sarwar Bajwa, Rafaqut Kazmi - Engineering Software for Modern Challenges First International Conference <br>
+6. Martin P. Robillard - Introduction to Software Design with Java (2022, Springer) <br>
+7. David Farley - Modern Software Engineering (2022, Addison-Wesley)
