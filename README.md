@@ -25,3 +25,5 @@ https://www.youtube.com/playlist?list=PLTEzTFAAzxQ4M8vt1I9OUxPtB9mgK_Spz
 5. Dayang Norhayati A. Jawawi, Imran Sarwar Bajwa, Rafaqut Kazmi - Engineering Software for Modern Challenges First International Conference <br>
 6. Martin P. Robillard - Introduction to Software Design with Java (2022, Springer) <br>
 7. David Farley - Modern Software Engineering (2022, Addison-Wesley)
+8. Benjamin Evans, Martijn Verburg, Jason Clark - The Well-Grounded Java Developer (2022, Manning Publications) <br>
+9. Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google_ Lessons Learned from Programming Over Time (2020, O'Reilly Media) <br>
