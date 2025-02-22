@@ -8,6 +8,8 @@ The content is organized into four main sections:
 **Software Engineering** - Key concepts and best practices in software development using Java.<br>
 **System Design** - Exploring system design patterns, scalability, and how to implement them in Java.<br>
 **Architecture** - Understanding Java's role in building robust and scalable architectures.<br>
+**Data Engineering** - How to manage datas in structures in Data Flows ... <br>
+**Distributed Systems** - Connect all puzzle that you build at the first of the way. <br>
 **Security** - Focusing on secure coding practices, encryption, and other security considerations within Java applications.<br>
 I hope this repository will be useful for anyone transitioning to Java from other programming languages, and will serve as a helpful resource for learning and applying Java in these key areas.
 
