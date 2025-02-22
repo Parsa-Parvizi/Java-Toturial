@@ -20,5 +20,6 @@ Vaskaran Sarcar - Java Design Patterns A Hands-On Experience with Real-World Exa
 Olaf Musch - Design Patterns with Java An Introduction (2023, Springer Vieweg) <br>
 Miroslav Wengner - Practical Design Patterns for Java Developers_ Hone your software design skills by implementing popular design patterns in Java (2023, Packt Publishing) <br>
 Mohammed Moreb - Design and Implementation of Software Engineering for Modern Web Applications (2024, IGI Global) <br>
-Dayang Norhayati A. Jawawi, Imran Sarwar Bajwa, Rafaqut Kazmi - Engineering Software for Modern Challenges First International Conference< br>
-Martin P. Robillard - Introduction to Software Design with Java (2022, Springer)<br>
+Dayang Norhayati A. Jawawi, Imran Sarwar Bajwa, Rafaqut Kazmi - Engineering Software for Modern Challenges First International Conference <br>
+Martin P. Robillard - Introduction to Software Design with Java (2022, Springer) <br>
+
