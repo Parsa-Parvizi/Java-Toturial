@@ -17,6 +17,9 @@ I hope this repository will be useful for anyone transitioning to Java from othe
 ## Youtube Sources:
 https://www.youtube.com/playlist?list=PLTEzTFAAzxQ4M8vt1I9OUxPtB9mgK_Spz
 
+## Github Repository:
+https://github.com/JavaBaz/presentations
+
 ## Book Sources:
 1. Vaskaran Sarcar - Java Design Patterns A Hands-On Experience with Real-World Examples (2022, Apress) <br>
 2. Olaf Musch - Design Patterns with Java An Introduction (2023, Springer Vieweg) <br>
