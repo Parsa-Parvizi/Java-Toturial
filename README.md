@@ -27,6 +27,12 @@ https://github.com/JavaBaz/presentations
 4. Mohammed Moreb - Design and Implementation of Software Engineering for Modern Web Applications (2024, IGI Global) <br>
 5. Dayang Norhayati A. Jawawi, Imran Sarwar Bajwa, Rafaqut Kazmi - Engineering Software for Modern Challenges First International Conference <br>
 6. Martin P. Robillard - Introduction to Software Design with Java (2022, Springer) <br>
-7. David Farley - Modern Software Engineering (2022, Addison-Wesley)
+7. David Farley - Modern Software Engineering (2022, Addison-Wesley) <br>
 8. Benjamin Evans, Martijn Verburg, Jason Clark - The Well-Grounded Java Developer (2022, Manning Publications) <br>
 9. Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google_ Lessons Learned from Programming Over Time (2020, O'Reilly Media) <br>
+10. Sarvesh Pandey, Udai Shanker, Vijayalakshmi Saravanan, Rajinikum - Role of Data-Intensive Distributed Computing Systems in Designing Data Solutions (2023, Springer) <br>
+11. Brendan Burns - Designing Distributed Systems (2025, O’Reilly Media) <br>
+12. Zhiyong Tan - Acing the System Design Interview (2024, Manning Publications) <br>
+13. Alex Xu - System Design Interview_ An Insider’s Guide (June 12, 2020) <br>
+14. Zhiyong Tan - Acing the System Design Interview (2024, Manning Publications) <br>
+15. <br>
