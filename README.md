@@ -35,4 +35,3 @@ https://github.com/JavaBaz/presentations
 12. Zhiyong Tan - Acing the System Design Interview (2024, Manning Publications) <br>
 13. Alex Xu - System Design Interview_ An Insider’s Guide (June 12, 2020) <br>
 14. Zhiyong Tan - Acing the System Design Interview (2024, Manning Publications) <br>
-15. <br>
