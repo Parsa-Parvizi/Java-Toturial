@@ -34,4 +34,3 @@ https://github.com/JavaBaz/presentations
 11. Brendan Burns - Designing Distributed Systems (2025, O’Reilly Media) <br>
 12. Zhiyong Tan - Acing the System Design Interview (2024, Manning Publications) <br>
 13. Alex Xu - System Design Interview_ An Insider’s Guide (June 12, 2020) <br>
-14. Zhiyong Tan - Acing the System Design Interview (2024, Manning Publications) <br>
