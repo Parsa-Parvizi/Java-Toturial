@@ -38,3 +38,6 @@ https://github.com/JavaBaz/presentations
 11. Brendan Burns - Designing Distributed Systems (2025, O’Reilly Media) <br>
 12. Zhiyong Tan - Acing the System Design Interview (2024, Manning Publications) <br>
 13. Alex Xu - System Design Interview_ An Insider’s Guide (June 12, 2020) <br>
+14. Fernández, Javier González - Java 9 Concurrency Cookbook (2017)<br>
+15. Ian F. Darwin - Java Cookbook_ Problems and Solutions for Java Developers (2020, O’Reilly Media)<br>
+16. Ian F. Darwin - Darwin Java Cookbook (2014, O'Reilly Media)<br>
