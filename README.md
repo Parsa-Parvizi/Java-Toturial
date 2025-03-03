@@ -8,9 +8,13 @@ The content is organized into four main sections:
 **Software Engineering** - Key concepts and best practices in software development using Java.<br>
 **System Design** - Exploring system design patterns, scalability, and how to implement them in Java.<br>
 **Architecture** - Understanding Java's role in building robust and scalable architectures.<br>
+**Design Patterns** - Design patterns are reusable solutions to common software design problems. In Java, patterns like Singleton, Factory, Observer, and Strategy help solve issues related to object creation, state management, and algorithm flexibility. Understanding these patterns helps Java developers write maintainable and scalable code.<br>
 **Data Engineering** - How to manage datas in structures in Data Flows ... <br>
 **Distributed Systems** - Connect all puzzle that you build at the first of the way. <br>
+**Best Practices** - Best practices in Java include writing clean, readable code by adhering to conventions like naming standards, avoid hardcoding, and using SOLID principles. Additionally, leveraging dependency injection (via Spring), keeping code modular, and performing code reviews are key strategies to ensure maintainability and scalability in large Java systems.<br>
 **Security** - Focusing on secure coding practices, encryption, and other security considerations within Java applications.<br>
+**Microservices** - Microservices in Java involve breaking down a monolithic application into small, independently deployable services. Using frameworks like Spring Boot and Spring Cloud, developers can build scalable, maintainable systems where each service is responsible for a specific business function and communicates over lightweight protocols like HTTP or messaging queues.<br>
+**Test & Debug** - Testing and debugging in Java are essential for building reliable software. JUnit and Mockito are commonly used for unit and integration testing, while JUnit 5 provides more powerful features like parameterized tests. Debugging tools like JVisualVM, YourKit, and Eclipse Debugger help track issues related to memory leaks, performance bottlenecks, and concurrency problems.<br>
 I hope this repository will be useful for anyone transitioning to Java from other programming languages, and will serve as a helpful resource for learning and applying Java in these key areas.
 
 
